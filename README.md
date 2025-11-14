@@ -51,6 +51,31 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ðŸ
     height="42px"
   />
 </a>
+<a target="_blank">
+  <img
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    alt="HTML5"
+    height="42px"
+  />
+</a>
+<a target="_blank">
+  <img
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    alt="CSS3"
+    height="42px"
+  />
+</a>
+<a target="_blank">
+  <img
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+    alt="Tailwind CSS"
+    height="42px"
+  />
+</a>
+
 
 <br>
 <!--
