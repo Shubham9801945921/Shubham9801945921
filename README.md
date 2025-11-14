@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shubham9801945921)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-57568a13a/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/0/folders/14fpvyLZ1Vlr6GLV2W6CfqGkzrIRNXRyb)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/155sxjLPGyZV6qAuhuW9BskaIpVcmea_a/view)
 - 📚 &nbsp; When I am free, I like to watch anime and F1.
 
 <br>
