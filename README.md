@@ -24,12 +24,12 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ğŸ
 
 ### ğŸ”¨ Languages and Tools:
  
-<a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="42px"/></a>
-<a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px"/></a>
-<a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="42px"/></a>
 <a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="42px"/></a>
 <a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="42px"/></a>
 <a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="42px"/></a>
+<a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px"/></a>
+<a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="42px"/></a>
+<a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="42px"/></a>
 <a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" height="42px"/></a>
 <a  target="_blank"> <img align="left" alt="SQL" height ="42px"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a>
 <a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="42px"/></a>
