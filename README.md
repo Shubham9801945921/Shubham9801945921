@@ -74,6 +74,14 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ðŸ
   />
 </a>
 <a  target="_blank"> <img align="left" alt="SQL" height ="42px"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a>
+<a target="_blank">
+  <img
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+    alt="MongoDB"
+    height="42px"
+  />
+</a>
 
 <a  target="_blank"> <img align="left" alt="Git" height ="42px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="Firebase" height ="42px"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a>
