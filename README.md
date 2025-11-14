@@ -28,7 +28,7 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ğŸ
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a  target="_blank"><img align="left" alt="Gradle" height ="42px" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></a>
 <a target="_blank"><img align="left" alt="Circle" height ="42px" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></a>
-<a  target="_blank"> <img align="left" alt="Json" height ="42px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="firebase" height ="42px"/> </a>
+
 
 <a  target="_blank"> <img align="left" alt="XML" height ="42px"  src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="Gitbash" height ="42px"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </a>
@@ -85,7 +85,7 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ğŸ
 
 <a  target="_blank"> <img align="left" alt="Git" height ="42px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="Firebase" height ="42px"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a>
-
+<a  target="_blank"> <img align="left" alt="Json" height ="42px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="firebase" height ="42px"/> </a>
 <a  target="_blank"> <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="CPP" height="42px"/> </a>
 
 <br>
