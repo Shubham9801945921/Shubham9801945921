@@ -34,7 +34,23 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ğŸ
 <a  target="_blank"> <img align="left" alt="Git" height ="42px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="XML" height ="42px"  src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="Gitbash" height ="42px"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </a>
-<a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="42px"></a>
+<a target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="42px"/></a>
+<a target="_blank">
+  <img
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="JavaScript"
+    height="42px"
+  />
+</a>
+<a target="_blank">
+  <img
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="TypeScript"
+    height="42px"
+  />
+</a>
 
 <br>
 <!--
