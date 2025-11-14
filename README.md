@@ -30,7 +30,7 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ğŸ
 <a target="_blank"><img align="left" alt="Circle" height ="42px" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></a>
 <a  target="_blank"> <img align="left" alt="Json" height ="42px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="firebase" height ="42px"/> </a>
 <a  target="_blank"> <img align="left" alt="SQL" height ="42px"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a>
-<a  target="_blank"> <img align="left" alt="Firebase" height ="42px"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a>
+
 <a  target="_blank"> <img align="left" alt="Git" height ="42px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="XML" height ="42px"  src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="Gitbash" height ="42px"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </a>
@@ -83,14 +83,7 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ğŸ
     height="42px"
   />
 </a>
-<a target="_blank">
-  <img
-    align="left"
-    src="https://cdn.worldvectorlogo.com/logos/rest-api.svg"
-    alt="REST API"
-    height="42px"
-  />
-</a>
+<a  target="_blank"> <img align="left" alt="Firebase" height ="42px"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a>
 
 <a  target="_blank"> <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="CPP" height="42px"/> </a>
 
